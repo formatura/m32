@@ -4,7 +4,7 @@
 #navbar {
     height: 160px;
 	/*background-color: rgba(12,86,82,0.8);*/
-	background: url('backmenumobile.jpg');
+	background-color:black;
 	opacity:0.8;
 }
 #navbar-container {
