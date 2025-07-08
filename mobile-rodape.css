@@ -20,6 +20,16 @@
 	color: #eee;
 	padding-bottom: 7px;*/
 }
+#leaomural img{
+	width: 154.5px;
+	max-height: 200px;
+	
+}
+#leaomural{
+	width:154.5px;
+	background: #ebebe6;
+	text-align:center;
+}
 .secmural{
 	font-size: 1.7rem;
 }
