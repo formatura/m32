@@ -22,11 +22,11 @@
 }
 #leaomural img{
 	width: 162px;
-	max-height: 200px;
+	height: auto;
 	
 }
 #leaomural{
-	width:154.5px;
+	width:162px;
 	background: #ebebe6;
 	text-align:center;
 }
