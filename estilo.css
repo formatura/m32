@@ -523,6 +523,16 @@ li {
 	background: #ebebe6;
 	text-align:center;
 }
+.imagemtransparente img{
+	width: 265px;
+	height: auto;
+	
+}
+.imagemtransparente{
+	width:265px;
+	background: transparent;
+	text-align:center;
+}
 
 /*#pagmural {
 	display: grid;
