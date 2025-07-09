@@ -30,6 +30,16 @@
 	background: #ebebe6;
 	text-align:center;
 }
+.imagemtransparente img{
+	width: 162px;
+	height: auto;
+	
+}
+.imagemtransparente{
+	width:162px;
+	background: transparent;
+	text-align:center;
+}
 .secmural{
 	font-size: 1.7rem;
 }
