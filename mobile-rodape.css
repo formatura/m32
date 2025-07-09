@@ -1,5 +1,6 @@
 
 /*RODAPÉ*/
+#pagmural p{font-size:0.9rem;}
 #pagmural{
 	grid-template-columns: repeat(2, 1fr);
 	gap: 3vh;
