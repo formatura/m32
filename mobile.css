@@ -98,6 +98,7 @@ header{
 #estparis{
 	width:100%;
 	height:auto;
+	scroll-margin-top: 200px;
 }
 
 #mural{
