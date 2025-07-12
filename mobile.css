@@ -190,11 +190,9 @@ header{
 .tabela-semgap{
 	flex-direction: column;
 	width:100%;
-	background: url('backsaopaolo.jpg') no-repeat center center/cover;
+	
 }
-.tortas{
-	background: url('backparis.jpg') no-repeat center center/cover;
-}
+
 #footer{
 	padding:30px;
 }
