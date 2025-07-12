@@ -308,6 +308,8 @@ li {
 	background-color: #020202;
 	height:40vh;
 	width: 100%;
+	color: #B6ACA8;
+	font-style: italic;
 }
 #estparis{
 	/*background: url('backparis.jpg') no-repeat center center/cover;*/
@@ -323,8 +325,6 @@ li {
 	font-weight: normal;
 	margin-top: 15px;
 	font-family: 'Avallon', san-serif;
-	color: #B6ACA8;
-	font-style: italic;
 }
 #estparis li{
 	text-align: center;
