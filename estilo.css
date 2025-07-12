@@ -314,6 +314,8 @@ li {
 	background-color: #020202;
 	height:auto;
 	width: 100%;
+	color: #B6ACA8;
+	font-style: italic;
 }
 #estparis h2{
 	font-size: 2rem;
@@ -321,6 +323,8 @@ li {
 	font-weight: normal;
 	margin-top: 15px;
 	font-family: 'Avallon', san-serif;
+	color: #B6ACA8;
+	font-style: italic;
 }
 #estparis li{
 	text-align: center;
