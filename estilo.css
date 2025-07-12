@@ -260,13 +260,13 @@ li {
 	justify-content: center;
 	align-items: center;
     padding: 50px;
-	background: url('backbuffet.jpg') no-repeat center center/cover;
+	/*background: url('backbuffet.jpg') no-repeat center center/cover;*/
 	
 	font-size: 1.2rem;
 	color: #eee;
 	
-	background-color: black/*rgba(0,0,0,0.85)*/;
-    background-blend-mode: color;
+	background-color: #020202/*rgba(0,0,0,0.85)*/;
+    
 }
 #buffet-container{
 	width: 400px;
