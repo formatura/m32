@@ -286,17 +286,34 @@ li {
 	margin-left:5vw;
 	margin-right:5vw;
 }
+#filho1{
+	width: 50%;
+}
+#filho2{
+	width: 50%;
+}
+#extensaobuffet{
+	width:100%;
+	align-items:center;
+	justify-content:center;
+}
+.tesquerda{
+	width:50%;
+}
+.tdireita{
+	width:50%;
+}
 #estitalia{
 	/*background: url('backitalia.jpg') no-repeat center center/cover;*/
 	background-color: #020202;
 	height:40vh;
-	width: 50%;
+	width: 100%;
 }
 #estparis{
 	/*background: url('backparis.jpg') no-repeat center center/cover;*/
 	background-color: #020202;
 	height:auto;
-	width: 50%;
+	width: 100%;
 }
 #estparis h2{
 	font-size: 2rem;
@@ -307,6 +324,19 @@ li {
 }
 #estparis li{
 	text-align: center;
+}
+#estparis h1{
+	font-size: 2.3rem;
+	text-align: center;
+	font-weight: normal;
+	font-family: 'Avallon', san-serif;
+	margin-top: 15px;
+}
+#estparis h3{
+	font-size: 2rem;
+	text-align: center;
+	font-weight: normal;
+	font-family: 'Avallon', san-serif;
 }
 
 /*Bebidas*/
@@ -395,7 +425,7 @@ li {
 	color: #eee;
 }
 .container-generico{
-	width: 90%;
+	width: 60%;
 	text-align: justify;
 	bottom: 0px;
 }
